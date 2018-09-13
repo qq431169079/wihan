@@ -87,3 +87,6 @@ wihand -s
 ## License
 
 This project is licensed under the terms of the GNU Lesser General Public License version 2.1.
+
+## Links
+- http://www.wihan.info/
