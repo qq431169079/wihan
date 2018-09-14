@@ -1,6 +1,6 @@
 # Wihan [![Build Status](https://api.travis-ci.org/Geenkle/wihan.svg?branch=master)](https://api.travis-ci.org/Geenkle/wihan)
 
-Wihan is a daemon to provide WiFi access and control and hotspot capabilities. It is designed specifically for embedded devices (like routers running OpenWrt).
+Wihan is a WiFi gateway that provides WiFi access control to your router through captive portal. It is designed for OpenWrt routers but it can run on any system. Wihan is easy to configure and run.
 
 # Getting Started
 
